@@ -1,0 +1,18 @@
+┌──────────────────────────────────────────────────────────────────────────────┐
+│~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~MMIX-ZWICK-MARKDOWN~~~~~~~~~~~~~~~~~~~~~~~~~~~~~│
+├──────────────────┬────────────────────┬───────────────────┬──────────────────┤
+│ 				   │	   COMMAND		│  DESTINATION(MUX) │ 	 SOURCE(MUX)   │
+│ ADDS $1+$2	   │ 1  ADD				│ 1 $1	            │ 1   $2           │
+│ SUBTR DUDE-42069 │ 2  SUB		        │ 2 DUDE            │ 2   42069        │
+│ ASSIGNS VAR A $  │ 3  XASSREG	        │ 3 VAR		        │ 3   $12          │+++
+└──────────────────┴────────────────────┴───────────────────┴──────────────────┘
++++:	IS A COMPILER INSTRUCTION DENOTED BY X ON FIRST LETER. XASSREG MEANS 
+		ASSIGN A REAL REGISTER TO A VARIABLE STRING.
+
+EXAMPLE: 
+//document start
+XHELLO
+SET $12,15 //COMMENT GOES HERE LOLE
+
+XASSREG MANMYLIFESUX $2
+;
