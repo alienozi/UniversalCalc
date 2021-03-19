@@ -5,22 +5,21 @@ We Love **Zwick**! This is a Student project on a self made Architecture (amateu
 ## TODO List:
  
  - [ ] Arithmetic
-	 - [X] Adder
-	 - [ ] Subtracter 
-	 - [ ] Multiplier
-	 - [ ] Divider
-	 - [ ] Square Root
+	 - [X] Adder		-Oguz
+	 - [ ] Subtracter 	-Agustín
+	 - [ ] Multiplier	-Oguz
+	 - [ ] Divider		-Agustín
+	 - [ ] Square Root	-Adam & Diego
 ##
  - [ ] Logic
-	- [ ] Shift Left
-	- [ ] Shift Right
-	- [ ] Inverse
-	- [ ] And
-	- [ ] Or
-	- [ ] Xor   
+	- [ ] Shift Left	-Adam
+	- [ ] Shift Right	-Adam
+	- [ ] Inverse		-Adam
+	- [ ] And		-Diego
+	- [ ] Or		-Diego
+	- [ ] Xor   		-Diego
 ##
  - [ ] Compiler
-	 - [ ] C
-	 - [ ] Task1
- - [X] Github Test
+	 - [ ] C		
+ - [X] Github Discord Webhook
 
