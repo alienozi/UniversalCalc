@@ -22,5 +22,5 @@ We Love **Zwick**! This is a Student project on a self made Architecture (amateu
  - [ ] Compiler
 	 - [ ] C
 	 - [ ] Task1
-
+ - [X] Github Test
 
