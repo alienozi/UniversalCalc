@@ -1,0 +1,18 @@
+Partlist exported from /home/kiwami/Documents/UniversalCalc/Arithmetic/ADD/ADDER_auto.sch at 21.03.21 01:36
+
+Part    Value  Device Package Description           MF MPN OC_FARNELL OC_NEWARK POPULARITY
+A-567#         MA05-1 MA05-1  PIN HEADER                   unknown    unknown   29        
+A-01234        MA05-1 MA05-1  PIN HEADER                   unknown    unknown   29        
+B-567#1        MA05-1 MA05-1  PIN HEADER                   unknown    unknown   29        
+B-01234        MA05-1 MA05-1  PIN HEADER                   unknown    unknown   29        
+IC1     4081N  4081N  DIL14   Quad 2-input AND                                  4         
+IC2     4030N  4030N  DIL14   Quad XOR                                          0         
+IC3     4071N  4071N  DIL14   Quad 2-input OR                                   0         
+IC4     4030N  4030N  DIL14   Quad XOR                                          0         
+IC5     4081N  4081N  DIL14   Quad 2-input AND                                  4         
+IC6     4081N  4081N  DIL14   Quad 2-input AND                                  4         
+IC7     4030N  4030N  DIL14   Quad XOR                                          0         
+IC8     4071N  4071N  DIL14   Quad 2-input OR                                   0         
+IC9     4030N  4030N  DIL14   Quad XOR                                          0         
+IC10    4081N  4081N  DIL14   Quad 2-input AND                                  4         
+X1      332-16 332-16 332-16  16 Pin - 2mm Dual Row                             0         
