@@ -17,7 +17,7 @@ void Remove_spaces(char *reader, int size);		//Replaces Extra Newline
 //make struct to get file size with the header   
 int main(int argc, const char *argv[]) 
 {
-
+	// anan 
 
 	/*---------------------GET FILES READY---------------------*/
 
