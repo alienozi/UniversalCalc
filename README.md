@@ -18,6 +18,7 @@ We Love **Zwick**! This is a Student project on a self made Architecture (amateu
 	 - [ ] Multiplier	-Oguz
 	 - [ ] Divider		-Agustín
 	 - [ ] Square Root	-Adam & Diego
+	 - [ ] FLOATING ADAPTER -Oguz
 ##
  - [ ] Logic
 	- [ ] Shift Left	-Adam
@@ -27,6 +28,7 @@ We Love **Zwick**! This is a Student project on a self made Architecture (amateu
 	- [ ] Or		-Diego
 	- [ ] Xor   		-Diego
 ##
+ - [ ] Backbone - Daria
  - [ ] Compiler
 	 - [ ] C		
  - [X] Github Discord Webhook
