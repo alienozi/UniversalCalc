@@ -19,6 +19,7 @@ We Love **Zwick**! This is a Student project on a self made Architecture (amateu
 	 - [ ] Divider		-Agustín
 	 - [ ] Square Root	-Adam & Diego
 	 - [ ] FLOATING ADAPTER -Oguz
+	 - [ ] Fixed Constants like e, pi etc.
 ##
  - [ ] Logic
 	- [ ] Shift Left	-Adam
